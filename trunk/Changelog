@@ -1,0 +1,9 @@
+0.10	26/10/2004
+	Port from XMMS to Beep Media Player
+	Some modifications to support GTK-2.0
+	
+0.11	26/10/2004
+	Fixed bug: No update after changing directories in configuration dialog
+
+0.12	26/10/2004
+	Put ConfigurationDialog on top
